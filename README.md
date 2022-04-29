@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-hxl)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 常用语言
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
