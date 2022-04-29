@@ -2,11 +2,13 @@
 
 ## 统计数据
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
+</a>
 
 ## 常用语言
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact" />
 </a>
 
