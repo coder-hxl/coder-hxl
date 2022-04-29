@@ -1,11 +1,11 @@
 ### 道阻且长 行则将至 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=coder-hxl&locale=cn&theme=tokyonight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-hxl&locale=cn&theme=tokyonight&show_icons=true" />
 </a>
 
-<a>
-  <img align="right" src="https://avatars.githubusercontent.com/u/85156687?s=400&u=e33099f282fc38ec03da4922eaa5f37f87997f0f&v=4" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact" />
 </a>
 
 
