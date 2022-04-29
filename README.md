@@ -1,10 +1,12 @@
-### 道阻且长 行则将至 👋
+# 道阻且长 行则将至 👋
 
-<u></u>
+## 统计数据
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-hxl&locale=cn&theme=tokyonight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
 </a>
+
+## 常用语言
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact" />
