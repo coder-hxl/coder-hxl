@@ -4,7 +4,10 @@
 
 ## 统计数据
 
-<img src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
+<img align="center" width="250" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" />
+</div>
 
 ## 常用语言
 
