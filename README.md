@@ -1,6 +1,6 @@
 ### 道阻且长 行则将至 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-hxl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-hxl?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **coder-hxl/coder-hxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
