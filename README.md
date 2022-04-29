@@ -1,5 +1,7 @@
 # 道阻且长 行则将至 👋
 
+<img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
+
 ## 统计数据
 
 <img src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
