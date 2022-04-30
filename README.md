@@ -5,18 +5,20 @@
 ## 统计数据
 
 <div>
-  <a href="https://github.com/coder-hxl">
+  <a href="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
   </a>
   <a>
-    <img align="center" width="250px" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" />
+    <img align="center" width="250px" src="c" />
   </a>
 </div>
 
 ## 常用语言
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact" />
-
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact" />
+</a>
+  
 ## 技术栈
 
 <img align="left" src="https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" alt="js" />
