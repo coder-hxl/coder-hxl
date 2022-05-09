@@ -24,9 +24,9 @@
   
 ## 技术栈
 
-<img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani" alt="HTML5" />
-<img align="left" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani" alt="CSS3" />
-<img align="left" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani" alt="JS" />
+<img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<img align="left" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" />
+<img align="left" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JS" />
 <img align="left" src="https://camo.githubusercontent.com/0e2611d64293f3676d77ce51169403831b38612be97ade095abebd1350c1b12a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030303f266c6f676f3d54797065536372697074" alt="ts" />
 
 <img align="left" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani" alt="GIT" />
