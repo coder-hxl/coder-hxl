@@ -1,6 +1,7 @@
 # 道阻且长 行则将至 👋
 
 <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="github" />
+<img src="https://wakatime.com/badge/user/04478268-906e-4938-8097-7c24abb8682e.svg" alt="wakatime" />
 
 ## 统计数据
 
