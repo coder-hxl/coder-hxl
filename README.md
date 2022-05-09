@@ -29,7 +29,6 @@
 <img align="left" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JS" />
 <img align="left" src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript" alt="TS" />
 <img align="left" src="https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js" alt="Vue" />
-<img align="left" src="https://img.shields.io/badge/-Node-black?style=flat&logo=node.js" alt="Node" />
 <img align="left" src="https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack" alt="Webpack" />
 <img align="left" src="https://img.shields.io/badge/-Vite-black?style=flat&logo=vite" alt="Vite" />
 
