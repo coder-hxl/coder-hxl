@@ -1,4 +1,5 @@
-# 道阻且长 行则将至 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# 道阻且长 行则将至 
+<!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
 <div>
   <a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="github" /></a>
