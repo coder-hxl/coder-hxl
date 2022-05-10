@@ -20,7 +20,7 @@
 ### 常用语言
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&theme=tokyonight&layout=compact" />
 </a>
   
 ### 技术栈
