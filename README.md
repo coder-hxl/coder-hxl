@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
 <a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="github" /></a>
-<a href="https://wakatime.com/@coderhxl" ><img src="https://wakatime.com/badge/user/04478268-906e-4938-8097-7c24abb8682e.svg" alt="Total time coded since Feb 12   2022" /></a>
+<a href="https://wakatime.com/@coderhxl" ><img src="https://wakatime.com/badge/user/04478268-906e-4938-8097-7c24abb8682e.svg" /></a>
  
 ### 统计数据
 <a>
