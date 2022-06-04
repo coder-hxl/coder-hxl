@@ -1,22 +1,17 @@
 # 道阻且长 行则将至 
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
-<div>
-  <a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="github" /></a>
-  <a href="https://wakatime.com/@coderhxl" ><img src="https://wakatime.com/badge/user/04478268-906e-4938-8097-7c24abb8682e.svg" alt="Total time coded since Feb 12   2022" /></a>
-</div>
-
+<a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="github" /></a>
+<a href="https://wakatime.com/@coderhxl" ><img src="https://wakatime.com/badge/user/04478268-906e-4938-8097-7c24abb8682e.svg" alt="Total time coded since Feb 12   2022" /></a>
+ 
 ### 统计数据
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
+</a>
 
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
-  </a>
- <!--   
-  <a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-    <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  </a> -->
-</div>
+<!-- <a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</a> -->
 
 ### 常用语言
 
