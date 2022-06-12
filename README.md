@@ -31,6 +31,7 @@
 <img align="left" src="https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack" alt="Webpack" />
 <img align="left" src="https://img.shields.io/badge/-Vite-black?style=flat&logo=vite" alt="Vite" />
 
+<img align="left" src="https://img.shields.io/badge/-Node-black?style=flat&logo=node.js" alt="Node.js" />
 <img align="left" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="Git" />
 
 <!--
