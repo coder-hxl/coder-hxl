@@ -1,7 +1,7 @@
 # 道阻且长 行则将至 
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
-<a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="github" /></a>
+<a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white" alt="GitHub" /></a>
 <a href="https://wakatime.com/@coderhxl" ><img src="https://wakatime.com/badge/user/04478268-906e-4938-8097-7c24abb8682e.svg" /></a>
  
 ### 统计数据
