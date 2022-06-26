@@ -9,11 +9,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
 </a>
 
-<!-- 
-<a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+<!-- <a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
   <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</a> 
--->
+</a>  -->
+
 
 ### 常用语言
 
@@ -34,8 +34,10 @@
 
 <!-- 后端 -->
 <img align="left" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" alt="Node.js" />
-<img align="left" src="https://img.shields.io/badge/-express-black?style=flat&logo=express" alt="express" />
-<img align="left" src="https://img.shields.io/badge/-koa-black?style=flat&logo=koa" alt="koa" />
+<img align="left" src="https://img.shields.io/badge/-Express-black?style=flat&logo=Express" alt="Express" />
+<img align="left" src="https://img.shields.io/badge/-Koa-black?style=flat&logo=Koa" alt="Koa" />
+
+<img align="left" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL" alt="MySQL" />
 
 <img align="left" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="Git" />
 
