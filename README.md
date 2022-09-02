@@ -40,7 +40,6 @@
 
 <img align="left" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL" alt="MySQL" />
 
-<img align="left" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="Git" />
 
 <!--
 **coder-hxl/coder-hxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
