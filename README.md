@@ -31,8 +31,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat&logo=vite)
+![微信小程序](https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-000?&logo=WECHAT)
 
 <!-- 后端 -->
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
