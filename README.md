@@ -26,23 +26,21 @@
 ### 技术栈
 
 <!-- 前端 -->
-<img align="left" src="https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5" alt="HTML5" />
-<img align="left" src="https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img align="left" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JS" />
-<img align="left" src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript" alt="TS" />
-<img align="left" src="https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js" alt="Vue" />
-<img align="left" src="https://img.shields.io/badge/-React-black?style=flat&logo=react" alt="React" />
-<img align="left" src="https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack" alt="Webpack" />
-<img align="left" src="https://img.shields.io/badge/-Vite-black?style=flat&logo=vite" alt="Vite" />
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat&logo=vite)
 
- 
 <!-- 后端 -->
-<img align="left" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" alt="Node.js" />
-<img align="left" src="https://img.shields.io/badge/-Express-black?style=flat&logo=Express" alt="Express" />
-<img align="left" src="https://img.shields.io/badge/-Koa-black?style=flat&logo=Koa" alt="Koa" />
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=Express)
+![Koa](https://img.shields.io/badge/-Koa-black?style=flat&logo=Koa)
 
 <!-- 数据库 -->
-<img align="left" src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL" alt="MySQL" />
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL)
 
 
 <!--
