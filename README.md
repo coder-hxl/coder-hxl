@@ -1,29 +1,11 @@
-# 道阻且长 行则将至 
-<!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
+# <p align="center">道阻且长 行则将至</p> 
+
+### About me:
 
 2020.12.15 —— 至今
 
 <a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white" alt="GitHub" /></a>
 <a href="https://wakatime.com/@coderhxl" ><img src="https://wakatime.com/badge/user/04478268-906e-4938-8097-7c24abb8682e.svg" /></a>
- 
-### 统计数据
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
-</a>
-
-
-<!-- <a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-  <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</a>  -->
-
-
-### 常用语言
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&theme=tokyonight&layout=compact" />
-</a>
-  
-### 技术栈
 
 <!-- 前端 -->
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
@@ -43,6 +25,28 @@
 
 <!-- 数据库 -->
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL)
+
+
+<a href="https://github.com/coder-hxl"> 
+ <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&theme=tokyonight&layout=compact" />
+ </p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-hxl&theme=tokyonight" />
+ </p>
+</a>
+
+
+<!-- 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+-->
+
+<!-- 
+ <a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</a>
+-->
 
 
 <!--
