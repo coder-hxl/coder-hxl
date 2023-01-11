@@ -4,8 +4,8 @@
 
 2020.12.15 —— 至今
 
-<a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white" alt="GitHub" /></a>
-<a href="https://wakatime.com/@coderhxl" ><img src="https://wakatime.com/badge/user/04478268-906e-4938-8097-7c24abb8682e.svg" /></a>
+<a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white" /></a>
+
 
 <!-- 前端 -->
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
