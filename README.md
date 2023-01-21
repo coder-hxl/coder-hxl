@@ -29,7 +29,7 @@
 
 <a href="https://github.com/coder-hxl"> 
  <p align="center">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-hxl&theme=tokyonight&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&theme=tokyonight&layout=compact" />
  </p>
  <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
