@@ -1,8 +1,6 @@
 # <p align="center">道阻且长 行则将至</p> 
 
-### About me:
-
-2020.12.15 —— 至今
+**2020.12.15 —— now**
 
 <a href="https://github.com/coder-hxl" ><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white" /></a>
 
@@ -16,7 +14,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat&logo=vite)
-![微信小程序](https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-000?&logo=WECHAT)
+![WeChat MiniProgram](https://img.shields.io/badge/-WeChat%20MiniProgram-000?&logo=WECHAT)
 
 <!-- 后端 -->
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
@@ -38,28 +36,7 @@
 </a>
 
 
-<!-- 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
--->
 
-<!-- 
- <a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-  <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</a>
--->
-
-
-<!--
-**coder-hxl/coder-hxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+ <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</a> -->
