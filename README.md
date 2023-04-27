@@ -21,7 +21,7 @@
 
 <a href="https://github.com/coder-hxl"> 
  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&theme=tokyonight" />
  </p>
  <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
@@ -29,9 +29,6 @@
  </p>
 </a>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-hxl&repo=x-crawl" />
-</p>
 
 <!-- <a href="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
  <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
