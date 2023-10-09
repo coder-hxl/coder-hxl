@@ -1,5 +1,3 @@
-# <p align="center">道阻且长 行则将至</p> 
-
 <p align="center"><b>2020.12.15 —— now</b></p> 
 
 <p align="center">
@@ -30,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&theme=tokyonight&layout=compact" />
  </p>
  <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true&rank_icon=github" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-hxl&theme=tokyonight" />
  </p>
 </a>
