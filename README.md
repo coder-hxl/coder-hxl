@@ -7,6 +7,7 @@
 ## Personal Info
 <p>Hi, I’m coderhxl, started getting involved in front-end development in 2020, and gradually expanded into the back-end field.</p>
 
+
 ## My Open Source Projects
 <a href="https://github.com/coder-hxl/x-crawl"><div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-hxl&repo=x-crawl&show_owner=true" /></div></a>
 
@@ -16,6 +17,11 @@
  <div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true&rank_icon=github" /></div>
  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-hxl&theme=tokyonight" /></div>
 </a>
+
+## Contact Me
+- Email: coderhxl@outlook.com
+- WeChat: coderhxl
+
 
 
 <!--
