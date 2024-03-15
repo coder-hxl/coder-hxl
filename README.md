@@ -9,7 +9,7 @@
 
 
 ## My Open Source Projects
-<a href="https://github.com/coder-hxl/x-crawl"><div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-hxl&repo=x-crawl&show_owner=true" /></div></a>
+<div align="center"><a href="https://github.com/coder-hxl/x-crawl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-hxl&repo=x-crawl&show_owner=true" /></a></div>
 
 ## Github Status
 <a href="https://github.com/coder-hxl">
