@@ -13,9 +13,8 @@
 
 ## Github Status
 <a href="https://github.com/coder-hxl">
- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&theme=tokyonight&layout=compact" /></div>
- <div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-hxl&theme=tokyonight&show_icons=true&rank_icon=github" /></div>
- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-hxl&theme=tokyonight" /></div>
+  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-hxl&hide_border=true" /></div>
+  <img width="57.5%" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=coder-hxl&show_icons=true&rank_icon=github&hide_border=true" /><img width="42.4%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-hxl&layout=compact&hide_border=true" />
 </a>
 
 ## Contact Me
