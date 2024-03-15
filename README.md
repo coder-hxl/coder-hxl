@@ -5,7 +5,7 @@
 </a>
 
 ## Personal Info
-<p>Hi, I’m coderhxl, started getting involved in front-end development in 2020, and gradually expanded into the back-end field.</p>
+<p>👋 Hi, I’m coderhxl, started getting involved in front-end development in 2020, and gradually expanded into the back-end field.</p>
 
 
 ## My Open Source Projects
