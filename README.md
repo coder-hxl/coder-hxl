@@ -1,6 +1,8 @@
 <!-- <p align="center"><b>2020 —— now</b></p> -->
  
-<img src="https://readme-typing-svg.herokuapp.com/?color=0C697A&lines=Welcome+to+coderhxl%27s+github+profile" />
+<a href="https://github.com/coder-hxl">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0C697A&lines=Welcome+to+coderhxl%27s+github+profile" />
+</a>
 
 ## Personal Info
 <p>Hi, I’m coderhxl, started getting involved in front-end development in 2020, and gradually expanded into the back-end field.</p>
