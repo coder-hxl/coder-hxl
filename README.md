@@ -1,7 +1,7 @@
 <!-- <p align="center"><b>2020 —— now</b></p> -->
  
 <a href="https://github.com/coder-hxl">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0C697A&lines=Welcome+to+coderhxl%27s+github+profile" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0C697A&lines=Welcome+to+coderhxl%27s+github+profile+!" />
 </a>
 
 ## Personal Info
