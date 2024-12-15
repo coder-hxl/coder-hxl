@@ -5,7 +5,7 @@
 </a>
 
 ## Personal Info
-<p>👋 Hi, I’m coderhxl, started getting involved in front-end development in 2020, and gradually expanded into the back-end field.</p>
+<p>👋 Hi, I’m coderhxl, an open source enthusiast.</p>
 
 
 ## My Open Source Projects
@@ -19,36 +19,5 @@
 </a>
 
 ## Contact Me
-- WeChat: coderhxl
 - Email: coderhxl@outlook.com
-
-
-
-
-<!--
-<div align="center">
- <code><img height=30 align="center" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" /></code>
-</div>
-<div align="center">
- <code><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
- <code><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
- <code><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></code>
- <code><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
- <code><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" /></code>
- <code><img height=30 src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4" /></code>
- <code><img height=30 src="https://avatars.githubusercontent.com/u/12554859?s=200&v=4" /></code>
- <code><img height=30 src="https://avatars.githubusercontent.com/u/40269642?s=200&v=4" /></code>
-</div> 
-<div align="center">
- <code><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
- <code><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></code>
- <code><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/koa/koa.png" /></code>
-</div>
-<div align="center">
- <code><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-</div> 
--->
-
-<!-- <img align="right" width="255px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-
-
+- 
